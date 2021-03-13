@@ -1,0 +1,213 @@
+{
+    "created_at": "Sat Mar 13 21:35:34 +0000 2021",
+    "id": 1370851052627632137,
+    "id_str": "1370851052627632137",
+    "text": "RT @Kuame_Oliver: @BenopaOnyx1 @MTNGhana \ud83d\ude02\ud83d\ude02\ud83d\ude02dem go tear ur momo attachee",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Kuame_Oliver",
+                "name": "Kuame Oliver \ud83d\udc95",
+                "id": 1334560999932911619,
+                "id_str": "1334560999932911619",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "BenopaOnyx1",
+                "name": "1Beno S\u2605rkCess \ud83e\udd1f\ud83d\ude80",
+                "id": 1152717715028811776,
+                "id_str": "1152717715028811776",
+                "indices": [
+                    18,
+                    30
+                ]
+            },
+            {
+                "screen_name": "MTNGhana",
+                "name": "MTN Ghana",
+                "id": 226493139,
+                "id_str": "226493139",
+                "indices": [
+                    31,
+                    40
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1364589456649510915,
+        "id_str": "1364589456649510915",
+        "name": "HENDRIX",
+        "screen_name": "akura_master",
+        "location": "",
+        "description": "YEAH AM ON GOD...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 118,
+        "friends_count": 191,
+        "listed_count": 0,
+        "created_at": "Wed Feb 24 14:54:33 +0000 2021",
+        "favourites_count": 3361,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2822,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1370826269462556672/bEolrJNc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370826269462556672/bEolrJNc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Mar 13 21:24:07 +0000 2021",
+        "id": 1370848168351571969,
+        "id_str": "1370848168351571969",
+        "text": "@BenopaOnyx1 @MTNGhana \ud83d\ude02\ud83d\ude02\ud83d\ude02dem go tear ur momo attachee",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BenopaOnyx1",
+                    "name": "1Beno S\u2605rkCess \ud83e\udd1f\ud83d\ude80",
+                    "id": 1152717715028811776,
+                    "id_str": "1152717715028811776",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "MTNGhana",
+                    "name": "MTN Ghana",
+                    "id": 226493139,
+                    "id_str": "226493139",
+                    "indices": [
+                        13,
+                        22
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1370846083828625410,
+        "in_reply_to_status_id_str": "1370846083828625410",
+        "in_reply_to_user_id": 1152717715028811776,
+        "in_reply_to_user_id_str": "1152717715028811776",
+        "in_reply_to_screen_name": "BenopaOnyx1",
+        "user": {
+            "id": 1334560999932911619,
+            "id_str": "1334560999932911619",
+            "name": "Kuame Oliver \ud83d\udc95",
+            "screen_name": "Kuame_Oliver",
+            "location": "United States",
+            "description": "ShattaSark || Kwesi Arthur || Fameye || Fun \ud83e\udd29",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6132,
+            "friends_count": 1189,
+            "listed_count": 18,
+            "created_at": "Thu Dec 03 18:12:05 +0000 2020",
+            "favourites_count": 27362,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 31747,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1369818984376336387/vxeiu68-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369818984376336387/vxeiu68-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1334560999932911619/1615560085",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

@@ -1,0 +1,112 @@
+{
+    "created_at": "Fri Mar 12 03:46:49 +0000 2021",
+    "id": 1370219705101819906,
+    "id_str": "1370219705101819906",
+    "text": "@slymelo @chrisadjei17 @1_myk Bro, talents dey ooo",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "slymelo",
+                "name": "kwame ankamah-kusi",
+                "id": 574011550,
+                "id_str": "574011550",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "chrisadjei17",
+                "name": "Chris Adjei",
+                "id": 2512521898,
+                "id_str": "2512521898",
+                "indices": [
+                    9,
+                    22
+                ]
+            },
+            {
+                "screen_name": "1_myk",
+                "name": "church_boi",
+                "id": 600314891,
+                "id_str": "600314891",
+                "indices": [
+                    23,
+                    29
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1370219542937542659,
+    "in_reply_to_status_id_str": "1370219542937542659",
+    "in_reply_to_user_id": 574011550,
+    "in_reply_to_user_id_str": "574011550",
+    "in_reply_to_screen_name": "slymelo",
+    "user": {
+        "id": 579685681,
+        "id_str": "579685681",
+        "name": "Solomaun Dubois",
+        "screen_name": "IM_SOLOMAUN",
+        "location": "Melbourne, Victoria",
+        "description": "Young, Gifted and Black. For the love of God and Country.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 483,
+        "friends_count": 497,
+        "listed_count": 0,
+        "created_at": "Mon May 14 08:32:18 +0000 2012",
+        "favourites_count": 1918,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10237,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/987163953686917120/aY6LFAtW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/987163953686917120/aY6LFAtW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/579685681/1377707942",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}
